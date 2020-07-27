@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=geekparkhub&repo=geekparkhub/geekparkhub.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=geekparkhub&repo=/geekparkhub/geekparkhub.github.io&theme=buefy" />
 </a>    
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
