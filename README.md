@@ -1,4 +1,4 @@
-### Repositorys
+### Repository
 
 <!--
 **jeep711/jeep711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
