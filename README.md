@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aiparkhub&repo=DeepLearning-Project-Template&theme=buefy" />
-</a> -->
+</a>
