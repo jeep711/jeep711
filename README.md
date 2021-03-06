@@ -1,6 +1,3 @@
-### Repositors
-
-
 <p align="center">
   <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
 </p>
@@ -21,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Languages & Tools:&nbsp;&nbsp;</h4>
+### Repositors
 
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/nasa-5-569227.png"></code>
