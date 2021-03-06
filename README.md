@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&theme=buefy&count_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" />
 </a>
