@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://github.com/jeep711?tab=followers">
+    <img src="https://komarev.com/ghpvc/?username=jeep711&color=blue&label=Profile+Views" alt="GitHub badge" />
+  </a>
 
 <h4>Languages & Tools:&nbsp;&nbsp;</h4>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
