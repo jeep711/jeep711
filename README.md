@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors" />
+  <img width="65%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors" />
 </a>
 
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy" />
+  <img width="27%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy" />
 </a>
