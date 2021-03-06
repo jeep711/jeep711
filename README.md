@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/teamcity-283674.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/vagrant-5-1174986.png"></code>
-<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/adobe-after-effects-2522530-2132718.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-128/adobe-premiere-pro-2522527-2132715.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-128/adobe-audition-2522520-2132708.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/adobe-illustrator-2522532-2132720.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-128/adobe-dimension-2522526-2132714.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-128/adobe-indesign-2522528-2132716.png"></code>
