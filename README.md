@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/teamcity-283674.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/vagrant-5-1174986.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png"></code>
@@ -53,6 +54,11 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/vim-3-1175075.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/redhat-7-1175108.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/debian-2752216-2285033.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-2752042-2284859.png"></code>
 
 
 <br>
