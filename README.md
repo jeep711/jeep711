@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/apple-2752243-2285060.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/teamcity-283674.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/vagrant-5-1174986.png"></code>
