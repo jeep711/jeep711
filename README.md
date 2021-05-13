@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
+  <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes" />
 </p>
 
 
