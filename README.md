@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Repositories
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/nasa-5-569227.png"></code>
