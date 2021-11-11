@@ -2,7 +2,6 @@
   <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes" />
 </p>
 
-
 <!--
 **jeep711/jeep711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
