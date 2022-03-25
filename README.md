@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 
 
 <a style="float: left;">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors" style="width:500px !important; height: 236px !important;"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" style="width:500px !important; height: 236px !important;"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors" style="width:500px !important;"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" />
 </a>
 
-<!--<a>Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact</a>-->
+<!--<a style="width:500px !important; height: 236px !important;">Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact</a>-->
