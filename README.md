@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 
 
 <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors"/>
 </a>
 
 <a>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true"/>
 </a>
