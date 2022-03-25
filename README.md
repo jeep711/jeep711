@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes" />
 </p>
+-->
 
 <!--
 **jeep711/jeep711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Repositories
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/nasa-5-569227.png"></code>
@@ -72,14 +75,14 @@ Here are some ideas to get you started:
 
 <br>
 
+-->
 
 
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors" />
+<a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="github Repositors"/>
 </a>
 
-<a href="#">
+<a>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true"/>
 </a>
