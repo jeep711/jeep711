@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jeep711/jeep711/master/encoderbytes.jpg" alt="EncoderBytes" />
+  <img width="100%" src="https://raw.githubusercontent.com/jeep711/jeep711/master/encoderbytes_v1.png" alt="EncoderBytes" />
 </p>
 
 | <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="Repositors" style="width:500px !important;"/></a> | <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" style="width:457px !important;" /></a> |
