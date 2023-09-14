@@ -1,6 +1,6 @@
 <!--
 <p align="center">
-  <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="EncoderBytes" />
+  <img width="100%" height='300' src="https://github.com/MianJawadAhmad/MianJawadAhmad/blob/master/encoderbytes.gif" alt="jeep711" />
 </p>
 -->
 
@@ -76,10 +76,12 @@ Here are some ideas to get you started:
 
 -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jeep711/jeep711/master/encoderbytes_v1.png" alt="EncoderBytes" />
+  <img width="100%" src="https://raw.githubusercontent.com/jeep711/jeep711/master/encoderbytes_v1.png" alt="jeep711" />
 </p>
 
 | <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeep711&show_icons=true&theme=buefy&count_private=true&hide=stars" alt="Repositors" style="width:500px !important;"/></a> | <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=soumith&layout=compact&theme=buefy&count_icons=true" style="width:457px !important;" /></a> |
 | ------------- | ------------- |
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeep711&theme=github)
 
 <!--<a style="width:500px !important; height: 236px !important;">Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` &layout=compact</a>-->
