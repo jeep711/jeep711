@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/amd-3-722673.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/nvidia-282591.png"></code>
 
-
 <br>
 
 -->
